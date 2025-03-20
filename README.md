@@ -48,4 +48,4 @@ Creating a ERD in crowdfunding_db_erd.png
 
 ## Database ERD
 
-![ERD for Database](crowdfunding_db_erd.png)
+![ERD for Database](Code&output/crowdfunding_db_erd.png)
